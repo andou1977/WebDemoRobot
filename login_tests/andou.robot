@@ -8,7 +8,7 @@ Login
    Input Password  ${VALID PASSWORD}
    Click Button    login_button
 
-
+#Logger Avec Andou
 *** Test Cases ***
 Lancer
   Login
